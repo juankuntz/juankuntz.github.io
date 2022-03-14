@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Academic</title>
+    <link>https://juankuntz.github.io/publication-type/3/</link>
+      <atom:link href="https://juankuntz.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://juankuntz.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>3</title>
+      <link>https://juankuntz.github.io/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>Scalable particle-based alternatives to EM</title>
+      <link>https://juankuntz.github.io/publication/parem/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://juankuntz.github.io/publication/parem/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Code:&lt;/strong&gt; We have written interactive Colab notebooks illustrating the application of our algorithms and reproducing our results. There&amp;rsquo;s one per example in paper:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1IBW5em23nc-03AYRtsLSJKUrw3zLhyl3?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Toy hierachical model&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1IBW5em23nc-03AYRtsLSJKUrw3zLhyl3?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bayesian logistic regression&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1IBW5em23nc-03AYRtsLSJKUrw3zLhyl3?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bayesian neural network&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The divide-and-conquer sequential Monte Carlo algorithm: theoretical properties and limit theorems</title>
+      <link>https://juankuntz.github.io/publication/dacclt/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://juankuntz.github.io/publication/dacclt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

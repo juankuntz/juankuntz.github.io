@@ -13,18 +13,66 @@
     </image>
     
     <item>
+      <title>Product-form estimators: exploiting independence to scale up Monte Carlo</title>
+      <link>https://juankuntz.github.io/publication/pf/</link>
+      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://juankuntz.github.io/publication/pf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximations of Countably Infinite Linear Programs over Bounded Measure Spaces</title>
+      <link>https://juankuntz.github.io/publication/clp/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://juankuntz.github.io/publication/clp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stationary Distributions of Continuous-Time Markov Chains: A Review of Theory and Truncation-Based Approximations</title>
+      <link>https://juankuntz.github.io/publication/stctmc/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://juankuntz.github.io/publication/stctmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Diffusion limit for the random walk Metropolis algorithm out of stationarity</title>
       <link>https://juankuntz.github.io/publication/dlrwm/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
       <guid>https://juankuntz.github.io/publication/dlrwm/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Product-form estimators: exploiting independence to scale up Monte Carlo</title>
-      <link>https://juankuntz.github.io/publication/pf/</link>
-      <pubDate>Tue, 01 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://juankuntz.github.io/publication/pf/</guid>
+      <title>Bounding the stationary distributions of the chemical master equation via mathematical programming</title>
+      <link>https://juankuntz.github.io/publication/bcme/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://juankuntz.github.io/publication/bcme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The exit time finite state projection scheme: bounding exit distributions and occupation measures of continuous-time Markov chains</title>
+      <link>https://juankuntz.github.io/publication/etfsp/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://juankuntz.github.io/publication/etfsp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-stationary phase of the MALA algorithm</title>
+      <link>https://juankuntz.github.io/publication/dlmala/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://juankuntz.github.io/publication/dlmala/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bounding Stationary Averages of Polynomial Diffusions via Semidefinite Programming</title>
+      <link>https://juankuntz.github.io/publication/bsde/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://juankuntz.github.io/publication/bsde/</guid>
       <description></description>
     </item>
     

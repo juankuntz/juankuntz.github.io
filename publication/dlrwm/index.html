@@ -64,7 +64,7 @@
   
     
   
-  <meta name="description" content="The Random Walk Metropolis (RWM) algorithm is a Metropolis–Hastings Markov Chain Monte Carlo algorithm designed to sample from a given target distribution πN with Lebesgue density on RN. Like any other Metropolis–Hastings algorithm, RWM constructs a Markov chain by randomly proposing a new position (the “proposal move”), which is then accepted or rejected according to a rule which makes the chain reversible with respect to πN. When the dimension N is large, a key question is to determine the optimal scaling with N of the proposal variance: if the proposal variance is too large, the algorithm will reject the proposed moves too often; if it is too small, the algorithm will explore the state space too slowly. Determining the optimal scaling of the proposal variance gives a measure of the cost of the algorithm as well. One approach to tackle this issue, which we adopt here, is to derive diffusion limits for the algorithm. Such an approach has been proposed in the seminal papers (Ann. Appl. Probab. 7 (1) (1997) 110–120; J. R. Stat. Soc. Ser. B. Stat. Methodol. 60 (1) (1998) 255–268). In particular, in (Ann. Appl. Probab. 7 (1) (1997) 110–120) the authors derive a diffusion limit for the RWM algorithm under the two following assumptions: (i) the algorithm is started in stationarity; (ii) the target measure πN is in product form. The present paper considers the situation of practical interest in which both assumptions (i) and (ii) are removed. That is (a) we study the case (which occurs in practice) in which the algorithm is started out of stationarity and (b) we consider target measures which are in non-product form. Roughly speaking, we consider target measures that admit a density with respect to Gaussian; such measures arise in Bayesian nonparametric statistics and in the study of conditioned diffusions. We prove that, out of stationarity, the optimal scaling for the proposal variance is `$1$`, as it is in stationarity. In this optimal scaling, a diffusion limit is obtained and the cost of reaching and exploring the invariant measure scales as O(N). Notice that the optimal scaling in and out of stationatity need not be the same in general, and indeed they differ e.g. in the case of the MALA algorithm (Stoch. Partial Differ. Equ. Anal Comput. 6 (3) (2018) 446–499). More importantly, our diffusion limit is given by a stochastic PDE, coupled to a scalar ordinary differential equation; such an ODE gives a measure of how far from stationarity the process is and can therefore be taken as an indicator of convergence. In this sense, this paper contributes understanding to the old-standing problem of monitoring convergence of MCMC algorithms." />
+  <meta name="description" content="The Random Walk Metropolis (RWM) algorithm is a Metropolis–Hastings Markov Chain Monte Carlo algorithm designed to sample from a given target distribution $\pi^N$ with Lebesgue density on $\mathbb{R}^N$. Like any other Metropolis–Hastings algorithm, RWM constructs a Markov chain by randomly proposing a new position (the “proposal move”), which is then accepted or rejected according to a rule which makes the chain reversible with respect to $\pi^N$. When the dimension N is large, a key question is to determine the optimal scaling with N of the proposal variance: if the proposal variance is too large, the algorithm will reject the proposed moves too often; if it is too small, the algorithm will explore the state space too slowly. Determining the optimal scaling of the proposal variance gives a measure of the cost of the algorithm as well. One approach to tackle this issue, which we adopt here, is to derive diffusion limits for the algorithm. Such an approach has been proposed in the seminal papers (Ann. Appl. Probab. 7 (1) (1997) 110–120; J. R. Stat. Soc. Ser. B. Stat. Methodol. 60 (1) (1998) 255–268). In particular, in (Ann. Appl. Probab. 7 (1) (1997) 110–120) the authors derive a diffusion limit for the RWM algorithm under the two following assumptions: (i) the algorithm is started in stationarity; (ii) the target measure $\pi^N$ is in product form. The present paper considers the situation of practical interest in which both assumptions (i) and (ii) are removed. That is (a) we study the case (which occurs in practice) in which the algorithm is started out of stationarity and (b) we consider target measures which are in non-product form. Roughly speaking, we consider target measures that admit a density with respect to Gaussian; such measures arise in Bayesian nonparametric statistics and in the study of conditioned diffusions. We prove that, out of stationarity, the optimal scaling for the proposal variance is $\mathcal{O}(N^{-1})$, as it is in stationarity. In this optimal scaling, a diffusion limit is obtained and the cost of reaching and exploring the invariant measure scales as $\mathcal{O}(N)$. Notice that the optimal scaling in and out of stationatity need not be the same in general, and indeed they differ e.g. in the case of the MALA algorithm (Stoch. Partial Differ. Equ. Anal Comput. 6 (3) (2018) 446–499). More importantly, our diffusion limit is given by a stochastic PDE, coupled to a scalar ordinary differential equation; such an ODE gives a measure of how far from stationarity the process is and can therefore be taken as an indicator of convergence. In this sense, this paper contributes understanding to the old-standing problem of monitoring convergence of MCMC algorithms." />
 
   
   <link rel="alternate" hreflang="en-us" href="https://juankuntz.github.io/publication/dlrwm/" />
@@ -76,6 +76,9 @@
   
 
   
+  
+    
+    <script src="/js/mathjax-config.js"></script>
   
 
   
@@ -224,9 +227,9 @@
 
       
       
-        
-      
 
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
       
     
       
@@ -310,16 +313,16 @@
   <meta property="og:site_name" content="Academic" />
   <meta property="og:url" content="https://juankuntz.github.io/publication/dlrwm/" />
   <meta property="og:title" content="Diffusion limit for the random walk Metropolis algorithm out of stationarity | Academic" />
-  <meta property="og:description" content="The Random Walk Metropolis (RWM) algorithm is a Metropolis–Hastings Markov Chain Monte Carlo algorithm designed to sample from a given target distribution πN with Lebesgue density on RN. Like any other Metropolis–Hastings algorithm, RWM constructs a Markov chain by randomly proposing a new position (the “proposal move”), which is then accepted or rejected according to a rule which makes the chain reversible with respect to πN. When the dimension N is large, a key question is to determine the optimal scaling with N of the proposal variance: if the proposal variance is too large, the algorithm will reject the proposed moves too often; if it is too small, the algorithm will explore the state space too slowly. Determining the optimal scaling of the proposal variance gives a measure of the cost of the algorithm as well. One approach to tackle this issue, which we adopt here, is to derive diffusion limits for the algorithm. Such an approach has been proposed in the seminal papers (Ann. Appl. Probab. 7 (1) (1997) 110–120; J. R. Stat. Soc. Ser. B. Stat. Methodol. 60 (1) (1998) 255–268). In particular, in (Ann. Appl. Probab. 7 (1) (1997) 110–120) the authors derive a diffusion limit for the RWM algorithm under the two following assumptions: (i) the algorithm is started in stationarity; (ii) the target measure πN is in product form. The present paper considers the situation of practical interest in which both assumptions (i) and (ii) are removed. That is (a) we study the case (which occurs in practice) in which the algorithm is started out of stationarity and (b) we consider target measures which are in non-product form. Roughly speaking, we consider target measures that admit a density with respect to Gaussian; such measures arise in Bayesian nonparametric statistics and in the study of conditioned diffusions. We prove that, out of stationarity, the optimal scaling for the proposal variance is `$1$`, as it is in stationarity. In this optimal scaling, a diffusion limit is obtained and the cost of reaching and exploring the invariant measure scales as O(N). Notice that the optimal scaling in and out of stationatity need not be the same in general, and indeed they differ e.g. in the case of the MALA algorithm (Stoch. Partial Differ. Equ. Anal Comput. 6 (3) (2018) 446–499). More importantly, our diffusion limit is given by a stochastic PDE, coupled to a scalar ordinary differential equation; such an ODE gives a measure of how far from stationarity the process is and can therefore be taken as an indicator of convergence. In this sense, this paper contributes understanding to the old-standing problem of monitoring convergence of MCMC algorithms." /><meta property="og:image" content="https://juankuntz.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
+  <meta property="og:description" content="The Random Walk Metropolis (RWM) algorithm is a Metropolis–Hastings Markov Chain Monte Carlo algorithm designed to sample from a given target distribution $\pi^N$ with Lebesgue density on $\mathbb{R}^N$. Like any other Metropolis–Hastings algorithm, RWM constructs a Markov chain by randomly proposing a new position (the “proposal move”), which is then accepted or rejected according to a rule which makes the chain reversible with respect to $\pi^N$. When the dimension N is large, a key question is to determine the optimal scaling with N of the proposal variance: if the proposal variance is too large, the algorithm will reject the proposed moves too often; if it is too small, the algorithm will explore the state space too slowly. Determining the optimal scaling of the proposal variance gives a measure of the cost of the algorithm as well. One approach to tackle this issue, which we adopt here, is to derive diffusion limits for the algorithm. Such an approach has been proposed in the seminal papers (Ann. Appl. Probab. 7 (1) (1997) 110–120; J. R. Stat. Soc. Ser. B. Stat. Methodol. 60 (1) (1998) 255–268). In particular, in (Ann. Appl. Probab. 7 (1) (1997) 110–120) the authors derive a diffusion limit for the RWM algorithm under the two following assumptions: (i) the algorithm is started in stationarity; (ii) the target measure $\pi^N$ is in product form. The present paper considers the situation of practical interest in which both assumptions (i) and (ii) are removed. That is (a) we study the case (which occurs in practice) in which the algorithm is started out of stationarity and (b) we consider target measures which are in non-product form. Roughly speaking, we consider target measures that admit a density with respect to Gaussian; such measures arise in Bayesian nonparametric statistics and in the study of conditioned diffusions. We prove that, out of stationarity, the optimal scaling for the proposal variance is $\mathcal{O}(N^{-1})$, as it is in stationarity. In this optimal scaling, a diffusion limit is obtained and the cost of reaching and exploring the invariant measure scales as $\mathcal{O}(N)$. Notice that the optimal scaling in and out of stationatity need not be the same in general, and indeed they differ e.g. in the case of the MALA algorithm (Stoch. Partial Differ. Equ. Anal Comput. 6 (3) (2018) 446–499). More importantly, our diffusion limit is given by a stochastic PDE, coupled to a scalar ordinary differential equation; such an ODE gives a measure of how far from stationarity the process is and can therefore be taken as an indicator of convergence. In this sense, this paper contributes understanding to the old-standing problem of monitoring convergence of MCMC algorithms." /><meta property="og:image" content="https://juankuntz.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
     <meta property="twitter:image" content="https://juankuntz.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
         property="article:published_time"
-        content="2022-02-01T00:00:00&#43;00:00"
+        content="2019-08-01T00:00:00&#43;00:00"
       />
     
-    <meta property="article:modified_time" content="2022-02-01T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2019-08-01T00:00:00&#43;00:00">
   
 
   
@@ -345,8 +348,8 @@
   },
   "headline": "Diffusion limit for the random walk Metropolis algorithm out of stationarity",
   
-  "datePublished": "2022-02-01T00:00:00Z",
-  "dateModified": "2022-02-01T00:00:00Z",
+  "datePublished": "2019-08-01T00:00:00Z",
+  "dateModified": "2019-08-01T00:00:00Z",
   
   "author": {
     "@type": "Person",
@@ -361,7 +364,7 @@
       "url": "https://juankuntz.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "The Random Walk Metropolis (RWM) algorithm is a Metropolis–Hastings Markov Chain Monte Carlo algorithm designed to sample from a given target distribution πN with Lebesgue density on RN. Like any other Metropolis–Hastings algorithm, RWM constructs a Markov chain by randomly proposing a new position (the “proposal move”), which is then accepted or rejected according to a rule which makes the chain reversible with respect to πN. When the dimension N is large, a key question is to determine the optimal scaling with N of the proposal variance: if the proposal variance is too large, the algorithm will reject the proposed moves too often; if it is too small, the algorithm will explore the state space too slowly. Determining the optimal scaling of the proposal variance gives a measure of the cost of the algorithm as well. One approach to tackle this issue, which we adopt here, is to derive diffusion limits for the algorithm. Such an approach has been proposed in the seminal papers (Ann. Appl. Probab. 7 (1) (1997) 110–120; J. R. Stat. Soc. Ser. B. Stat. Methodol. 60 (1) (1998) 255–268). In particular, in (Ann. Appl. Probab. 7 (1) (1997) 110–120) the authors derive a diffusion limit for the RWM algorithm under the two following assumptions: (i) the algorithm is started in stationarity; (ii) the target measure πN is in product form. The present paper considers the situation of practical interest in which both assumptions (i) and (ii) are removed. That is (a) we study the case (which occurs in practice) in which the algorithm is started out of stationarity and (b) we consider target measures which are in non-product form. Roughly speaking, we consider target measures that admit a density with respect to Gaussian; such measures arise in Bayesian nonparametric statistics and in the study of conditioned diffusions. We prove that, out of stationarity, the optimal scaling for the proposal variance is `$1$`, as it is in stationarity. In this optimal scaling, a diffusion limit is obtained and the cost of reaching and exploring the invariant measure scales as O(N). Notice that the optimal scaling in and out of stationatity need not be the same in general, and indeed they differ e.g. in the case of the MALA algorithm (Stoch. Partial Differ. Equ. Anal Comput. 6 (3) (2018) 446–499). More importantly, our diffusion limit is given by a stochastic PDE, coupled to a scalar ordinary differential equation; such an ODE gives a measure of how far from stationarity the process is and can therefore be taken as an indicator of convergence. In this sense, this paper contributes understanding to the old-standing problem of monitoring convergence of MCMC algorithms."
+  "description": "The Random Walk Metropolis (RWM) algorithm is a Metropolis–Hastings Markov Chain Monte Carlo algorithm designed to sample from a given target distribution $\\pi^N$ with Lebesgue density on $\\mathbb{R}^N$. Like any other Metropolis–Hastings algorithm, RWM constructs a Markov chain by randomly proposing a new position (the “proposal move”), which is then accepted or rejected according to a rule which makes the chain reversible with respect to $\\pi^N$. When the dimension N is large, a key question is to determine the optimal scaling with N of the proposal variance: if the proposal variance is too large, the algorithm will reject the proposed moves too often; if it is too small, the algorithm will explore the state space too slowly. Determining the optimal scaling of the proposal variance gives a measure of the cost of the algorithm as well. One approach to tackle this issue, which we adopt here, is to derive diffusion limits for the algorithm. Such an approach has been proposed in the seminal papers (Ann. Appl. Probab. 7 (1) (1997) 110–120; J. R. Stat. Soc. Ser. B. Stat. Methodol. 60 (1) (1998) 255–268). In particular, in (Ann. Appl. Probab. 7 (1) (1997) 110–120) the authors derive a diffusion limit for the RWM algorithm under the two following assumptions: (i) the algorithm is started in stationarity; (ii) the target measure $\\pi^N$ is in product form. The present paper considers the situation of practical interest in which both assumptions (i) and (ii) are removed. That is (a) we study the case (which occurs in practice) in which the algorithm is started out of stationarity and (b) we consider target measures which are in non-product form. Roughly speaking, we consider target measures that admit a density with respect to Gaussian; such measures arise in Bayesian nonparametric statistics and in the study of conditioned diffusions. We prove that, out of stationarity, the optimal scaling for the proposal variance is $\\mathcal{O}(N^{-1})$, as it is in stationarity. In this optimal scaling, a diffusion limit is obtained and the cost of reaching and exploring the invariant measure scales as $\\mathcal{O}(N)$. Notice that the optimal scaling in and out of stationatity need not be the same in general, and indeed they differ e.g. in the case of the MALA algorithm (Stoch. Partial Differ. Equ. Anal Comput. 6 (3) (2018) 446–499). More importantly, our diffusion limit is given by a stochastic PDE, coupled to a scalar ordinary differential equation; such an ODE gives a measure of how far from stationarity the process is and can therefore be taken as an indicator of convergence. In this sense, this paper contributes understanding to the old-standing problem of monitoring convergence of MCMC algorithms."
 }
 </script>
 
@@ -371,9 +374,10 @@
 
   
 
-  <script type="text/javascript"
-  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
+  
+
+
+
 
 
   <title>Diffusion limit for the random walk Metropolis algorithm out of stationarity | Academic</title>
@@ -747,7 +751,7 @@
     
       
     
-    February, 2022
+    August, 2019
   </span>
   
 
@@ -782,8 +786,14 @@
 
 
   
+    
+  
 
 
+
+<a class="btn btn-outline-primary btn-page-header" href="https://arxiv.org/abs/1405.4896" target="_blank" rel="noopener">
+  PDF
+</a>
 
 
 
@@ -822,7 +832,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">The Random Walk Metropolis (RWM) algorithm is a Metropolis–Hastings Markov Chain Monte Carlo algorithm designed to sample from a given target distribution πN with Lebesgue density on RN. Like any other Metropolis–Hastings algorithm, RWM constructs a Markov chain by randomly proposing a new position (the “proposal move”), which is then accepted or rejected according to a rule which makes the chain reversible with respect to πN. When the dimension N is large, a key question is to determine the optimal scaling with N of the proposal variance: if the proposal variance is too large, the algorithm will reject the proposed moves too often; if it is too small, the algorithm will explore the state space too slowly. Determining the optimal scaling of the proposal variance gives a measure of the cost of the algorithm as well. One approach to tackle this issue, which we adopt here, is to derive diffusion limits for the algorithm. Such an approach has been proposed in the seminal papers (Ann. Appl. Probab. 7 (1) (1997) 110–120; J. R. Stat. Soc. Ser. B. Stat. Methodol. 60 (1) (1998) 255–268). In particular, in (Ann. Appl. Probab. 7 (1) (1997) 110–120) the authors derive a diffusion limit for the RWM algorithm under the two following assumptions: (i) the algorithm is started in stationarity; (ii) the target measure πN is in product form. The present paper considers the situation of practical interest in which both assumptions (i) and (ii) are removed. That is (a) we study the case (which occurs in practice) in which the algorithm is started out of stationarity and (b) we consider target measures which are in non-product form. Roughly speaking, we consider target measures that admit a density with respect to Gaussian; such measures arise in Bayesian nonparametric statistics and in the study of conditioned diffusions. We prove that, out of stationarity, the optimal scaling for the proposal variance is <code>$1$</code>, as it is in stationarity. In this optimal scaling, a diffusion limit is obtained and the cost of reaching and exploring the invariant measure scales as O(N). Notice that the optimal scaling in and out of stationatity need not be the same in general, and indeed they differ e.g. in the case of the MALA algorithm (Stoch. Partial Differ. Equ. Anal Comput. 6 (3) (2018) 446–499). More importantly, our diffusion limit is given by a stochastic PDE, coupled to a scalar ordinary differential equation; such an ODE gives a measure of how far from stationarity the process is and can therefore be taken as an indicator of convergence. In this sense, this paper contributes understanding to the old-standing problem of monitoring convergence of MCMC algorithms.</p>
+    <p class="pub-abstract">The Random Walk Metropolis (RWM) algorithm is a Metropolis–Hastings Markov Chain Monte Carlo algorithm designed to sample from a given target distribution $\pi^N$ with Lebesgue density on $\mathbb{R}^N$. Like any other Metropolis–Hastings algorithm, RWM constructs a Markov chain by randomly proposing a new position (the “proposal move”), which is then accepted or rejected according to a rule which makes the chain reversible with respect to $\pi^N$. When the dimension N is large, a key question is to determine the optimal scaling with N of the proposal variance: if the proposal variance is too large, the algorithm will reject the proposed moves too often; if it is too small, the algorithm will explore the state space too slowly. Determining the optimal scaling of the proposal variance gives a measure of the cost of the algorithm as well. One approach to tackle this issue, which we adopt here, is to derive diffusion limits for the algorithm. Such an approach has been proposed in the seminal papers (Ann. Appl. Probab. 7 (1) (1997) 110–120; J. R. Stat. Soc. Ser. B. Stat. Methodol. 60 (1) (1998) 255–268). In particular, in (Ann. Appl. Probab. 7 (1) (1997) 110–120) the authors derive a diffusion limit for the RWM algorithm under the two following assumptions: (i) the algorithm is started in stationarity; (ii) the target measure $\pi^N$ is in product form. The present paper considers the situation of practical interest in which both assumptions (i) and (ii) are removed. That is (a) we study the case (which occurs in practice) in which the algorithm is started out of stationarity and (b) we consider target measures which are in non-product form. Roughly speaking, we consider target measures that admit a density with respect to Gaussian; such measures arise in Bayesian nonparametric statistics and in the study of conditioned diffusions. We prove that, out of stationarity, the optimal scaling for the proposal variance is $\mathcal{O}(N^{-1})$, as it is in stationarity. In this optimal scaling, a diffusion limit is obtained and the cost of reaching and exploring the invariant measure scales as $\mathcal{O}(N)$. Notice that the optimal scaling in and out of stationatity need not be the same in general, and indeed they differ e.g. in the case of the MALA algorithm (Stoch. Partial Differ. Equ. Anal Comput. 6 (3) (2018) 446–499). More importantly, our diffusion limit is given by a stochastic PDE, coupled to a scalar ordinary differential equation; such an ODE gives a measure of how far from stationarity the process is and can therefore be taken as an indicator of convergence. In this sense, this paper contributes understanding to the old-standing problem of monitoring convergence of MCMC algorithms.</p>
     
 
     
@@ -901,7 +911,7 @@
     <div class="media-body">
       <h5 class="card-title"><a href="https://juankuntz.github.io/">Juan Kuntz</a></h5>
       <h6 class="card-subtitle">Research Fellow</h6>
-      <p class="card-text">SHORT BIO</p>
+      
       <ul class="network-icon" aria-hidden="true">
   
     
@@ -1034,7 +1044,7 @@
 
   
   <p class="powered-by copyright-license-text">
-    © 2022 Me. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+    © {2022} Juan Kuntz. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
   </p>
   
 
