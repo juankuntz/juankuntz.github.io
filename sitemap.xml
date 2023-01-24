@@ -6,13 +6,13 @@
   <url>
     <loc>https://juankuntz.github.io/</loc><lastmod>2022-06-07T14:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://juankuntz.github.io/event/</loc><lastmod>2022-06-07T14:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://juankuntz.github.io/talk/particle-algorithms-for-maximum-likelihood-training-of-latent-variable-models/</loc><lastmod>2022-06-07T14:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://juankuntz.github.io/talk/scalable-particle-based-alternatives-to-em/</loc><lastmod>2022-06-07T14:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://juankuntz.github.io/event/</loc><lastmod>2022-06-07T14:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2022-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://juankuntz.github.io/publication-type/3/</loc><lastmod>2022-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://juankuntz.github.io/publication-type/1/</loc><lastmod>2022-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc></loc><lastmod>2022-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -28,11 +28,11 @@
   <url>
     <loc>https://juankuntz.github.io/tag/optimization/</loc><lastmod>2022-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
+    <loc>https://juankuntz.github.io/publication/parem/</loc><lastmod>2022-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://juankuntz.github.io/publication_types/</loc><lastmod>2022-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://juankuntz.github.io/publication/</loc><lastmod>2022-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://juankuntz.github.io/publication/parem/</loc><lastmod>2022-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://juankuntz.github.io/tags/</loc><lastmod>2022-03-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -43,6 +43,8 @@
     <loc>https://juankuntz.github.io/tag/numerical-methods/</loc><lastmod>2022-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://juankuntz.github.io/publication/pf/</loc><lastmod>2022-02-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://juankuntz.github.io/publication-type/3/</loc><lastmod>2021-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://juankuntz.github.io/publication/dacclt/</loc><lastmod>2021-10-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -86,9 +88,9 @@
   <url>
     <loc>https://juankuntz.github.io/publication/bsde/</loc><lastmod>2016-12-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://juankuntz.github.io/project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://juankuntz.github.io/project/parem/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://juankuntz.github.io/project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://juankuntz.github.io/publication-type/6/</loc><lastmod>2014-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>

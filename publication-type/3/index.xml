@@ -5,20 +5,12 @@
     <link>https://juankuntz.github.io/publication-type/3/</link>
       <atom:link href="https://juankuntz.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://juankuntz.github.io/media/icon_hu076bc0a9b6d473d65246113fd5d7d63a_148_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
       <link>https://juankuntz.github.io/publication-type/3/</link>
     </image>
-    
-    <item>
-      <title>Scalable particle-based alternatives to EM</title>
-      <link>https://juankuntz.github.io/publication/parem/</link>
-      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://juankuntz.github.io/publication/parem/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>The divide-and-conquer sequential Monte Carlo algorithm: theoretical properties and limit theorems</title>
