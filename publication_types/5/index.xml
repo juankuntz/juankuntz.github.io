@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>5 | Hugo Academic CV Theme</title>
+    <link>https://example.com/publication_types/5/</link>
+      <atom:link href="https://example.com/publication_types/5/index.xml" rel="self" type="application/rss+xml" />
+    <description>5</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <title>5</title>
+      <link>https://example.com/publication_types/5/</link>
+    </image>
+    
+    <item>
+      <title>Markov chains revisited</title>
+      <link>https://example.com/publication/mcbook/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/mcbook/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

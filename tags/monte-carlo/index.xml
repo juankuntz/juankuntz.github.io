@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Monte Carlo | Hugo Academic CV Theme</title>
+    <link>https://example.com/tags/monte-carlo/</link>
+      <atom:link href="https://example.com/tags/monte-carlo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Monte Carlo</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <title>Monte Carlo</title>
+      <link>https://example.com/tags/monte-carlo/</link>
+    </image>
+    
+    <item>
+      <title>Error bounds for particle gradient descent, and extensions of the log-Sobolev and Talagrand inequalities</title>
+      <link>https://example.com/publication/pgd-theory/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/pgd-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Momentum Particle Maximum Likelihood</title>
+      <link>https://example.com/publication/mpd/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/mpd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The divide-and-conquer sequential Monte Carlo algorithm: theoretical properties and limit theorems</title>
+      <link>https://example.com/publication/dacclt/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/dacclt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Particle algorithms for maximum likelihood training of latent variable models</title>
+      <link>https://example.com/publication/parem/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/parem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Product-form estimators: exploiting independence to scale up Monte Carlo</title>
+      <link>https://example.com/publication/pf/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/pf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diffusion limit for the random walk Metropolis algorithm out of stationarity</title>
+      <link>https://example.com/publication/dlrwm/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/dlrwm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-stationary phase of the MALA algorithm</title>
+      <link>https://example.com/publication/dlmala/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/dlmala/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

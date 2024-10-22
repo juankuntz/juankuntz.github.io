@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning | Hugo Academic CV Theme</title>
+    <link>https://example.com/tags/machine-learning/</link>
+      <atom:link href="https://example.com/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Learning</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <title>Machine Learning</title>
+      <link>https://example.com/tags/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>Error bounds for particle gradient descent, and extensions of the log-Sobolev and Talagrand inequalities</title>
+      <link>https://example.com/publication/pgd-theory/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/pgd-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Momentum Particle Maximum Likelihood</title>
+      <link>https://example.com/publication/mpd/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/mpd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Particle algorithms for maximum likelihood training of latent variable models</title>
+      <link>https://example.com/publication/parem/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/parem/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

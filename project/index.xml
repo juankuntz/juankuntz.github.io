@@ -1,30 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | </title>
-    <link>https://juankuntz.github.io/project/</link>
-      <atom:link href="https://juankuntz.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <title>Projects | Hugo Academic CV Theme</title>
+    <link>https://example.com/project/</link>
+      <atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://juankuntz.github.io/media/icon_hu076bc0a9b6d473d65246113fd5d7d63a_148_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
       <title>Projects</title>
-      <link>https://juankuntz.github.io/project/</link>
+      <link>https://example.com/project/</link>
     </image>
     
     <item>
-      <title>Particle algorithms for maximum likelihood training of latent variable models</title>
-      <link>https://juankuntz.github.io/project/parem/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://juankuntz.github.io/project/parem/</guid>
-      <description>&lt;p&gt;Main blurb, blablabla&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Code:&lt;/strong&gt; We have written interactive Colab notebooks illustrating the application of our algorithms and reproducing our results. There&amp;rsquo;s one per example in paper:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1IBW5em23nc-03AYRtsLSJKUrw3zLhyl3?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Toy hierachical model&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1IBW5em23nc-03AYRtsLSJKUrw3zLhyl3?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bayesian logistic regression&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://colab.research.google.com/drive/1IBW5em23nc-03AYRtsLSJKUrw3zLhyl3?usp=sharing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bayesian neural network&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <title>Pandas</title>
+      <link>https://example.com/project/pandas/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/pandas/</guid>
+      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>PyTorch</title>
+      <link>https://example.com/project/pytorch/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/pytorch/</guid>
+      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>scikit-learn</title>
+      <link>https://example.com/project/scikit/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/scikit/</guid>
+      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
     </item>
     
   </channel>
