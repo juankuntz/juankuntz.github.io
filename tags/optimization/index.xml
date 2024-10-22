@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Optimization | </title>
+    <link>https://juankuntz.github.io/tags/optimization/</link>
+      <atom:link href="https://juankuntz.github.io/tags/optimization/index.xml" rel="self" type="application/rss+xml" />
+    <description>Optimization</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://juankuntz.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Optimization</title>
+      <link>https://juankuntz.github.io/tags/optimization/</link>
+    </image>
+    
+    <item>
+      <title>Error bounds for particle gradient descent, and extensions of the log-Sobolev and Talagrand inequalities</title>
+      <link>https://juankuntz.github.io/publication/pgd-theory/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://juankuntz.github.io/publication/pgd-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Momentum Particle Maximum Likelihood</title>
+      <link>https://juankuntz.github.io/publication/mpd/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://juankuntz.github.io/publication/mpd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Particle algorithms for maximum likelihood training of latent variable models</title>
+      <link>https://juankuntz.github.io/publication/parem/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://juankuntz.github.io/publication/parem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximations of Countably Infinite Linear Programs over Bounded Measure Spaces</title>
+      <link>https://juankuntz.github.io/publication/clp/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://juankuntz.github.io/publication/clp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stationary Distributions of Continuous-Time Markov Chains: A Review of Theory and Truncation-Based Approximations</title>
+      <link>https://juankuntz.github.io/publication/stctmc/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://juankuntz.github.io/publication/stctmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bounding the stationary distributions of the chemical master equation via mathematical programming</title>
+      <link>https://juankuntz.github.io/publication/bcme/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://juankuntz.github.io/publication/bcme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deterministic approximation schemes with computable errors for the distributions of Markov chains</title>
+      <link>https://juankuntz.github.io/publication/thesis/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://juankuntz.github.io/publication/thesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bounding Stationary Averages of Polynomial Diffusions via Semidefinite Programming</title>
+      <link>https://juankuntz.github.io/publication/bsde/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://juankuntz.github.io/publication/bsde/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
