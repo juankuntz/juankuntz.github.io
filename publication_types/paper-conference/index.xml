@@ -5,7 +5,7 @@
     <link>https://juankuntz.github.io/publication_types/paper-conference/</link>
       <atom:link href="https://juankuntz.github.io/publication_types/paper-conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Paper-Conference</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://juankuntz.github.io/media/icon_hu7729264130191091259.png</url>
       <title>Paper-Conference</title>
@@ -13,25 +13,9 @@
     </image>
     
     <item>
-      <title>Momentum Particle Maximum Likelihood</title>
-      <link>https://juankuntz.github.io/publication/mpd/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://juankuntz.github.io/publication/mpd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Particle algorithms for maximum likelihood training of latent variable models</title>
-      <link>https://juankuntz.github.io/publication/parem/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://juankuntz.github.io/publication/parem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>An example conference paper</title>
       <link>https://juankuntz.github.io/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://juankuntz.github.io/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
 &lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
@@ -48,6 +32,22 @@
 &lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including 
 .&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Momentum Particle Maximum Likelihood</title>
+      <link>https://juankuntz.github.io/publication/mpd/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://juankuntz.github.io/publication/mpd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Particle algorithms for maximum likelihood training of latent variable models</title>
+      <link>https://juankuntz.github.io/publication/parem/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://juankuntz.github.io/publication/parem/</guid>
+      <description></description>
     </item>
     
   </channel>
