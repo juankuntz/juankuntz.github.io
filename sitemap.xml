@@ -6,15 +6,11 @@
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://juankuntz.github.io/publication_types/1/</loc>
+    <loc>https://juankuntz.github.io/publication_types/article/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://juankuntz.github.io/publication_types/2/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://juankuntz.github.io/publication_types/3/</loc>
+    <loc>https://juankuntz.github.io/publication_types/article-journal/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -51,6 +47,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://juankuntz.github.io/tags/optimization/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://juankuntz.github.io/publication_types/paper-conference/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -114,10 +114,6 @@
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://juankuntz.github.io/publication_types/5/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://juankuntz.github.io/publication/mcbook/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -138,11 +134,11 @@
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://juankuntz.github.io/publication_types/7/</loc>
+    <loc>https://juankuntz.github.io/publication/thesis/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://juankuntz.github.io/publication/thesis/</loc>
+    <loc>https://juankuntz.github.io/publication_types/thesis/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -150,7 +146,7 @@
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://juankuntz.github.io/publication_types/6/</loc>
+    <loc>https://juankuntz.github.io/publication_types/book-section/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

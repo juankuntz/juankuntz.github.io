@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Article-Journal | </title>
+    <link>https://juankuntz.github.io/publication_types/article-journal/</link>
+      <atom:link href="https://juankuntz.github.io/publication_types/article-journal/index.xml" rel="self" type="application/rss+xml" />
+    <description>Article-Journal</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://juankuntz.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Article-Journal</title>
+      <link>https://juankuntz.github.io/publication_types/article-journal/</link>
+    </image>
+    
+    <item>
+      <title>The divide-and-conquer sequential Monte Carlo algorithm: theoretical properties and limit theorems</title>
+      <link>https://juankuntz.github.io/publication/dacclt/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://juankuntz.github.io/publication/dacclt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Product-form estimators: exploiting independence to scale up Monte Carlo</title>
+      <link>https://juankuntz.github.io/publication/pf/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://juankuntz.github.io/publication/pf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Approximations of Countably Infinite Linear Programs over Bounded Measure Spaces</title>
+      <link>https://juankuntz.github.io/publication/clp/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://juankuntz.github.io/publication/clp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stationary Distributions of Continuous-Time Markov Chains: A Review of Theory and Truncation-Based Approximations</title>
+      <link>https://juankuntz.github.io/publication/stctmc/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://juankuntz.github.io/publication/stctmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bounding the stationary distributions of the chemical master equation via mathematical programming</title>
+      <link>https://juankuntz.github.io/publication/bcme/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://juankuntz.github.io/publication/bcme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diffusion limit for the random walk Metropolis algorithm out of stationarity</title>
+      <link>https://juankuntz.github.io/publication/dlrwm/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://juankuntz.github.io/publication/dlrwm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The exit time finite state projection scheme: bounding exit distributions and occupation measures of continuous-time Markov chains</title>
+      <link>https://juankuntz.github.io/publication/etfsp/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://juankuntz.github.io/publication/etfsp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-stationary phase of the MALA algorithm</title>
+      <link>https://juankuntz.github.io/publication/dlmala/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://juankuntz.github.io/publication/dlmala/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bounding Stationary Averages of Polynomial Diffusions via Semidefinite Programming</title>
+      <link>https://juankuntz.github.io/publication/bsde/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://juankuntz.github.io/publication/bsde/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

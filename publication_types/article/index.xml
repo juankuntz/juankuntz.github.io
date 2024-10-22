@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Article | </title>
+    <link>https://juankuntz.github.io/publication_types/article/</link>
+      <atom:link href="https://juankuntz.github.io/publication_types/article/index.xml" rel="self" type="application/rss+xml" />
+    <description>Article</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://juankuntz.github.io/media/icon_hu7729264130191091259.png</url>
+      <title>Article</title>
+      <link>https://juankuntz.github.io/publication_types/article/</link>
+    </image>
+    
+    <item>
+      <title>Error bounds for particle gradient descent, and extensions of the log-Sobolev and Talagrand inequalities</title>
+      <link>https://juankuntz.github.io/publication/pgd-theory/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://juankuntz.github.io/publication/pgd-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markov chains revisited</title>
+      <link>https://juankuntz.github.io/publication/mcbook/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://juankuntz.github.io/publication/mcbook/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
