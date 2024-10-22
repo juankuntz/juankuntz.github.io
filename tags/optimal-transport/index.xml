@@ -20,5 +20,21 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Momentum Particle Maximum Likelihood</title>
+      <link>https://juankuntz.github.io/publication/mpd/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://juankuntz.github.io/publication/mpd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Particle algorithms for maximum likelihood training of latent variable models</title>
+      <link>https://juankuntz.github.io/publication/parem/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://juankuntz.github.io/publication/parem/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
